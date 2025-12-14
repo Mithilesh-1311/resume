@@ -1,0 +1,21 @@
+{
+    "name": "mithilesh-angal-portfolio",
+    "version": "1.0.0",
+    "description": "Personal portfolio website for Mithilesh Angal - B.Tech ECE student at VIT",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx serve .",
+        "dev": "npx serve ."
+    },
+    "keywords": [
+        "portfolio",
+        "resume",
+        "personal-website"
+    ],
+    "author": "Mithilesh Angal",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
